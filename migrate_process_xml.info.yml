@@ -1,0 +1,8 @@
+type: module
+name: Migrate Process XML
+description: 'Migrate Process Plugin for processing a source field with XML'
+package: Migration
+core: 8.x
+dependencies:
+  - drupal:migrate (>=8.2)
+  
